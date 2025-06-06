@@ -8,7 +8,6 @@
 #include "bst.h"
 
 namespace {
-
     std::string to_lower(const std::string& str) {
         std::string lower_str;
         lower_str.reserve(str.size());
